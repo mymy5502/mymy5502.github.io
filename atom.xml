@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mymy5502.github.io</id>
+    <title>石鱼</title>
+    <updated>2024-05-11T07:05:32.331Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mymy5502.github.io"/>
+    <link rel="self" href="https://mymy5502.github.io/atom.xml"/>
+    <subtitle>这里是网站描述</subtitle>
+    <logo>https://mymy5502.github.io/images/avatar.png</logo>
+    <icon>https://mymy5502.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 石鱼</rights>
+    <entry>
+        <title type="html"><![CDATA[何老师]]></title>
+        <id>https://mymy5502.github.io/post/he-lao-shi/</id>
+        <link href="https://mymy5502.github.io/post/he-lao-shi/">
+        </link>
+        <updated>2024-05-11T07:01:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fc]]></title>
+        <id>https://mymy5502.github.io/post/fc/</id>
+        <link href="https://mymy5502.github.io/post/fc/">
+        </link>
+        <updated>2024-04-05T04:15:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华子-青浦-ICT逻辑-一些信息]]></title>
+        <id>https://mymy5502.github.io/post/hua-zi-qing-pu-ict-luo-ji-yi-xie-xin-xi/</id>
+        <link href="https://mymy5502.github.io/post/hua-zi-qing-pu-ict-luo-ji-yi-xie-xin-xi/">
+        </link>
+        <updated>2024-04-05T04:04:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://mymy5502.github.io/post/about/</id>
+        <link href="https://mymy5502.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello mymy]]></title>
+        <id>https://mymy5502.github.io/post/hello-gridea/</id>
+        <link href="https://mymy5502.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
