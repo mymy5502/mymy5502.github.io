@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mymy5502.github.io</id>
+    <title>临渊羡鱼</title>
+    <updated>2025-01-03T04:02:23.839Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mymy5502.github.io"/>
+    <link rel="self" href="https://mymy5502.github.io/atom.xml"/>
+    <subtitle>mymy的网站</subtitle>
+    <logo>https://mymy5502.github.io/images/avatar.png</logo>
+    <icon>https://mymy5502.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 临渊羡鱼</rights>
+    <entry>
+        <title type="html"><![CDATA[20250102-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20250102-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20250102-sui-bi/">
+        </link>
+        <updated>2025-01-02T15:14:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241207-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20241207-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20241207-sui-bi/">
+        </link>
+        <updated>2024-12-07T13:58:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241121-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20241121-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20241121-sui-bi/">
+        </link>
+        <updated>2024-11-21T13:15:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241101-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20241101-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20241101-sui-bi/">
+        </link>
+        <updated>2024-11-01T14:08:27.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241029-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20241029-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20241029-sui-bi/">
+        </link>
+        <updated>2024-10-29T13:45:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241018-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20241018-zhou-ji-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20241018-zhou-ji-sui-bi/">
+        </link>
+        <updated>2024-10-18T14:47:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231017-樊超]]></title>
+        <id>https://mymy5502.github.io/post/20231017-fan-chao/</id>
+        <link href="https://mymy5502.github.io/post/20231017-fan-chao/">
+        </link>
+        <updated>2024-10-18T14:45:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241010-黄凌奥]]></title>
+        <id>https://mymy5502.github.io/post/20241010-huang-ling-ao/</id>
+        <link href="https://mymy5502.github.io/post/20241010-huang-ling-ao/">
+        </link>
+        <updated>2024-10-16T03:53:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241008-彭元星]]></title>
+        <id>https://mymy5502.github.io/post/20241008-peng-yuan-xing/</id>
+        <link href="https://mymy5502.github.io/post/20241008-peng-yuan-xing/">
+        </link>
+        <updated>2024-10-16T03:47:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20241008-随笔]]></title>
+        <id>https://mymy5502.github.io/post/20241008-sui-bi/</id>
+        <link href="https://mymy5502.github.io/post/20241008-sui-bi/">
+        </link>
+        <updated>2024-10-08T01:52:17.000Z</updated>
+    </entry>
+</feed>
